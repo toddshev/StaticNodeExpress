@@ -1,0 +1,50 @@
+{
+    "projects": [
+        {
+        "id": 0,
+        "project_name": "Quote Generator",
+        "description": "Generate random quotes with random background colors",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "live_link": "https://toddshev.github.io/RandomQuoteGenerator",
+        "github_link": "https://github.com/toddshev/RandomQuoteGenerator",
+        "landingpage_img": "/static/images/quote1.png",
+        "image_urls": ["/static/images/quote1.png", "/static/images/quote2.png"]
+        },
+        {"id": 1,
+        "project_name": "Data Pagination",
+        "description": "Gallery of students with pagination",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "live_link": "https://toddshev.github.io/DataPagination",
+        "github_link": "https://github.com/toddshev/DataPagination",
+        "landingpage_img": "/static/images/pagination1.png",
+        "image_urls": ["/static/images/pagination1.png", "/static/images/pagination2.png"]
+        },
+        {"id": 2,
+        "project_name": "Form Validation",
+        "description": "Validating an interactive form's inputs for attending a conference",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "live_link": "https://toddshev.github.io/InteractiveForm",
+        "github_link": "https://github.com/toddshev/InteractiveForm",
+        "landingpage_img": "/static/images/form1.png",
+        "image_urls": ["/static/images/form1.png", "/static/images/form2.png"]
+        },
+        {"id": 3,
+        "project_name": "Object-Oriented Game Show",
+        "description": "A hangman-style word game",
+        "technologies": ["HTML", "CSS", "Object-Oriented JavaScript"],
+        "live_link": "https://toddshev.github.io/OOPGameshow",
+        "github_link": "https://github.com/toddshev/OOPGameshow",
+        "landingpage_img": "/static/images/gameshow1.png",
+        "image_urls": ["/static/images/gameshow1.png", "/static/images/gameshow2.png"]
+        },
+        {"id": 4,
+        "project_name": "Employee Directory",
+        "description": "Gallery of employees retrieved via API",
+        "technologies": ["HTML", "CSS", "JavaScript", "API Request"],
+        "live_link": "https://toddshev.github.io/Project5-APIRequest",
+        "github_link": "https://github.com/toddshev/Project5-APIRequest",
+        "landingpage_img": "/static/images/api1.png",
+        "image_urls": ["/static/images/api1.png", "/static/images/api2.png"]
+        }
+    ]
+}
