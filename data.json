@@ -49,6 +49,15 @@
             "github_link": "https://github.com/toddshev/PublicAPIReq",
             "landingpage_img": "/static/images/apiLanding.png",
             "image_urls": ["/static/images/api1.png", "/static/images/api2.png"]
-        }
+        },
+            "id": 5,
+            "project_name": "Course App",
+            "description": "Fully functional course app with user auth",
+            "technologies": ["CSS", "JavaScript", "React", "React Router", "Basic Auth", "Express API", "Sequelize ORM", "Sqlite"],
+            "live_link": "https://grand-gratitude-production-8d2e.up.railway.app/",
+            "github_link": "https://github.com/toddshev/react-rest-api-library",
+            "landing_img": "/static/images/tbd",
+            "image_urls": ["/static/images/tbd1", "/static/images/tbd2"]
+        } 
     ]
 }
